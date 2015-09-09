@@ -86,12 +86,15 @@ header h2 {
 
 #container {
   min-height: 595px;
-  background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat;
+/*  background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat;*/
 }
 
 .inner {
   width: 620px;
   margin: 0 auto;
+}
+.inner2{
+  width: 800px!important;
 }
 
 #container .inner img {
@@ -371,3 +374,20 @@ footer a:hover {
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) { }
+
+.bookmarks li{
+  line-height: 40px;
+}
+.bookmarks a{
+  padding:10px 20px;
+  border:dashed 3px #777;
+  border-radius: 10px;
+  font-size: 30px;
+  text-decoration:none;
+  color:#777;   
+}
+.notice{
+  color: #C60;
+  font-weight: 800;
+  padding-bottom: 16px;
+}
