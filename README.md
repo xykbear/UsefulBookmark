@@ -1,7 +1,13 @@
 # UsefulBookmark
-Open specific webpage, click a bookmark in bookmarks bar, then something happend. That's all I want.
-<br><br>
-Now, this repo is just a collection of bookmarks with simply features. Maybe they will to be a all-in-one tool, or userscript in future.
+利用书签栏上的书签来做一些事情。
 
 ## Bookmark list
-* Shared2Weibo: 分享当前页面到新浪微博，你可以选择页面上的一张图片进行分享。
+* Shared2Weibo: 分享当前页面到新浪微博
+  * [x] 分享页面上的图片
+  * [x] 自动识别页面图片（新浪特性）
+
+* PixivDownloadHelper：P站图片下载助手
+  * [x] 可下载单图的大图
+  * [x] 可下载多图的第一张大图(仅限jpg)
+  * [x] 可下载动图为zip包格式
+  * 仍然存在的问题： #1
