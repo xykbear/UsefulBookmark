@@ -10,4 +10,4 @@
   * [x] 可下载单图的大图
   * [x] 可下载多图的第一张大图(仅限jpg)
   * [x] 可下载动图为zip包格式
-  * 仍然存在的问题： #1
+  * 仍然存在的问题：[#1](https://github.com/xykbear/UsefulBookmark/issues/1)
