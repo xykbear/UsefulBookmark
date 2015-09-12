@@ -1,5 +1,6 @@
 # UsefulBookmark
 利用书签栏上的书签来做一些事情。
+获取书签：[Gitpage](http://xykbear.github.io/UsefulBookmark/)
 
 ## Bookmark list
 * Shared2Weibo: 分享当前页面到新浪微博
