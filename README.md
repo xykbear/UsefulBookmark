@@ -12,3 +12,12 @@
   * [x] 可下载多图的第一张大图(仅限jpg)
   * [x] 可下载动图为zip包格式
   * 仍然存在的问题：[#1](https://github.com/xykbear/UsefulBookmark/issues/1)
+
+* FlashFullPage：Flash视频播放器网页全屏切换
+  * [x] 测试可用：
+    * Bilibili直播
+    * 爱奇艺
+    * 战旗直播
+  * [x] 测试不可用：
+    * 所用用iframe嵌入的Flash视频
+    * Bilibili视频
